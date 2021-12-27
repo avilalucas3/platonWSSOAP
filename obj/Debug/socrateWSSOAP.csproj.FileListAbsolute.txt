@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\socrateWSSOAP\socrateWSSOAP\bin\socrateWSSOAP.dll.config
+C:\Users\HP\source\repos\socrateWSSOAP\socrateWSSOAP\bin\socrateWSSOAP.dll
+C:\Users\HP\source\repos\socrateWSSOAP\socrateWSSOAP\bin\socrateWSSOAP.pdb
+C:\Users\HP\source\repos\socrateWSSOAP\socrateWSSOAP\obj\Debug\socrateWSSOAP.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\socrateWSSOAP\socrateWSSOAP\obj\Debug\socrateWSSOAP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\socrateWSSOAP\socrateWSSOAP\obj\Debug\socrateWSSOAP.dll
+C:\Users\HP\source\repos\socrateWSSOAP\socrateWSSOAP\obj\Debug\socrateWSSOAP.pdb
